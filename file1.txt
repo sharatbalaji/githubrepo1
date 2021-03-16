@@ -1,4 +1,2 @@
-line1
-
-masterbranch line1
+line1-master
 
